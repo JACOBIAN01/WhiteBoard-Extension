@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "Quick Whiteboard",
+  "description": "Opens a simple whiteboard for drawing.",
+  "version": "1.0",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": []
+}
